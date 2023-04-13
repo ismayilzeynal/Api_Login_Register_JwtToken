@@ -32,7 +32,7 @@ builder.Services.AddIdentity<AppUser, IdentityRole>(options =>
     options.Password.RequireLowercase = true;
     options.Password.RequireUppercase = true;
 
-    options.User.RequireUniqueEmail = true;
+    //options.User.RequireUniqueEmail = true;
 
     options.Lockout.AllowedForNewUsers = true;
     options.Lockout.DefaultLockoutTimeSpan = TimeSpan.FromMinutes(20);
