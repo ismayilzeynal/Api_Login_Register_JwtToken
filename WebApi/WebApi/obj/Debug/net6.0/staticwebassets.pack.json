@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\asus\\OneDrive\\Desktop\\Code Academy\\API\\Api-04\\WebApi\\WebApi\\wwwroot\\img\\1.png",
+      "PackagePath": "staticwebassets\\img\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\OneDrive\\Desktop\\Code Academy\\API\\Api-04\\WebApi\\WebApi\\wwwroot\\img\\10876199-6e29-4ff8-b459-4968d879162aScreenshot (10).png",
+      "PackagePath": "staticwebassets\\img\\10876199-6e29-4ff8-b459-4968d879162aScreenshot (10).png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\OneDrive\\Desktop\\Code Academy\\API\\Api-04\\WebApi\\WebApi\\wwwroot\\img\\2.png",
+      "PackagePath": "staticwebassets\\img\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\OneDrive\\Desktop\\Code Academy\\API\\Api-04\\WebApi\\WebApi\\wwwroot\\img\\2db5d4aa-8548-4c9f-9688-fafc86b174b3Warface_sample.jpg",
+      "PackagePath": "staticwebassets\\img\\2db5d4aa-8548-4c9f-9688-fafc86b174b3Warface_sample.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\OneDrive\\Desktop\\Code Academy\\API\\Api-04\\WebApi\\WebApi\\wwwroot\\img\\b1606a9c-958c-4d24-9bb2-c5962032160dArcheAge_sample.jpg",
+      "PackagePath": "staticwebassets\\img\\b1606a9c-958c-4d24-9bb2-c5962032160dArcheAge_sample.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.WebApi.props",
+      "PackagePath": "build\\WebApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApi.props",
+      "PackagePath": "buildMultiTargeting\\WebApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.WebApi.props",
+      "PackagePath": "buildTransitive\\WebApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
