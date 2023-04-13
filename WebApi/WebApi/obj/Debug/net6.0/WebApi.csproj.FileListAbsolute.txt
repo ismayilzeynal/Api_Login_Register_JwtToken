@@ -338,3 +338,4 @@ C:\Users\asus\OneDrive\Desktop\Code Academy\API\Api-05\WebApi\WebApi\obj\Debug\n
 C:\Users\asus\OneDrive\Desktop\Code Academy\API\Api-05\WebApi\WebApi\obj\Debug\net6.0\WebApi.pdb
 C:\Users\asus\OneDrive\Desktop\Code Academy\API\Api-05\WebApi\WebApi\obj\Debug\net6.0\WebApi.genruntimeconfig.cache
 C:\Users\asus\OneDrive\Desktop\Code Academy\API\Api-05\WebApi\WebApi\obj\Debug\net6.0\ref\WebApi.dll
+C:\Users\asus\OneDrive\Desktop\Code Academy\API\Api-05\WebApi\WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

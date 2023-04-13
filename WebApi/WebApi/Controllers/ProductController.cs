@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -22,6 +23,7 @@ namespace WebApi.Controllers
         }
 
         [HttpGet]
+        //[Authorize(Roles ="Admin")]
         public IActionResult GetAll(string search, int page = 1)
         {
             var query = _appDbContext.Products
